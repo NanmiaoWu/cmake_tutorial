@@ -1,0 +1,16 @@
+/home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/install/strip.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/install/local.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/install.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/list_install_components.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/rebuild_cache.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/edit_cache.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/test.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/Tutorial.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/MathFunctions/CMakeFiles/install/strip.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/MathFunctions/CMakeFiles/install.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/MathFunctions/CMakeFiles/list_install_components.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/MathFunctions/CMakeFiles/test.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/MathFunctions/CMakeFiles/install/local.dir
+/home/nanmiao/Documents/cmake_tutorial/s5/build/MathFunctions/CMakeFiles/MathFunctions.dir

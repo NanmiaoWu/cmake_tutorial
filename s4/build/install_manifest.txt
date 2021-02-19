@@ -1,0 +1,4 @@
+/home/nanmiao/Documents/cmake_tutorial/s4/install/lib/libMathFunctions.a
+/home/nanmiao/Documents/cmake_tutorial/s4/install/include/MathFunctions.h
+/home/nanmiao/Documents/cmake_tutorial/s4/install/bin/Tutorial
+/home/nanmiao/Documents/cmake_tutorial/s4/install/include/TutorialConfig.h

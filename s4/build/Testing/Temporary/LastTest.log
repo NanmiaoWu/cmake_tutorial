@@ -1,0 +1,145 @@
+Start testing: Feb 18 17:54 CST
+----------------------------------------------------------
+1/6 Testing: Runs
+1/6 Test: Runs
+Command: "/home/nanmiao/Documents/cmake_tutorial/s4/build/Tutorial" "25"
+Directory: /home/nanmiao/Documents/cmake_tutorial/s4/build
+"Runs" start time: Feb 18 17:54 CST
+Output:
+----------------------------------------------------------
+Computing sqrt of 25 to be 13
+Computing sqrt of 25 to be 7.46154
+Computing sqrt of 25 to be 5.40603
+Computing sqrt of 25 to be 5.01525
+Computing sqrt of 25 to be 5.00002
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+The square root of 25 is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Runs" end time: Feb 18 17:54 CST
+"Runs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: Usage
+2/6 Test: Usage
+Command: "/home/nanmiao/Documents/cmake_tutorial/s4/build/Tutorial"
+Directory: /home/nanmiao/Documents/cmake_tutorial/s4/build
+"Usage" start time: Feb 18 17:54 CST
+Output:
+----------------------------------------------------------
+/home/nanmiao/Documents/cmake_tutorial/s4/build/Tutorial Version 1.0
+Usage: /home/nanmiao/Documents/cmake_tutorial/s4/build/Tutorial number
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[Usage:.*number]
+"Usage" end time: Feb 18 17:54 CST
+"Usage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: Comp4
+3/6 Test: Comp4
+Command: "/home/nanmiao/Documents/cmake_tutorial/s4/build/Tutorial" "4"
+Directory: /home/nanmiao/Documents/cmake_tutorial/s4/build
+"Comp4" start time: Feb 18 17:54 CST
+Output:
+----------------------------------------------------------
+Computing sqrt of 4 to be 2.5
+Computing sqrt of 4 to be 2.05
+Computing sqrt of 4 to be 2.00061
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+Computing sqrt of 4 to be 2
+The square root of 4 is 2
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[4 is 2]
+"Comp4" end time: Feb 18 17:54 CST
+"Comp4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: Comp9
+4/6 Test: Comp9
+Command: "/home/nanmiao/Documents/cmake_tutorial/s4/build/Tutorial" "9"
+Directory: /home/nanmiao/Documents/cmake_tutorial/s4/build
+"Comp9" start time: Feb 18 17:54 CST
+Output:
+----------------------------------------------------------
+Computing sqrt of 9 to be 5
+Computing sqrt of 9 to be 3.4
+Computing sqrt of 9 to be 3.02353
+Computing sqrt of 9 to be 3.00009
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+Computing sqrt of 9 to be 3
+The square root of 9 is 3
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[9 is 3]
+"Comp9" end time: Feb 18 17:54 CST
+"Comp9" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: Comp25
+5/6 Test: Comp25
+Command: "/home/nanmiao/Documents/cmake_tutorial/s4/build/Tutorial" "25"
+Directory: /home/nanmiao/Documents/cmake_tutorial/s4/build
+"Comp25" start time: Feb 18 17:54 CST
+Output:
+----------------------------------------------------------
+Computing sqrt of 25 to be 13
+Computing sqrt of 25 to be 7.46154
+Computing sqrt of 25 to be 5.40603
+Computing sqrt of 25 to be 5.01525
+Computing sqrt of 25 to be 5.00002
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+Computing sqrt of 25 to be 5
+The square root of 25 is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[25 is 5]
+"Comp25" end time: Feb 18 17:54 CST
+"Comp25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: Comp-25
+6/6 Test: Comp-25
+Command: "/home/nanmiao/Documents/cmake_tutorial/s4/build/Tutorial" "-25"
+Directory: /home/nanmiao/Documents/cmake_tutorial/s4/build
+"Comp-25" start time: Feb 18 17:54 CST
+Output:
+----------------------------------------------------------
+The square root of -25 is 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found. Regex=[-25 is [-nan|nan|0]]
+"Comp-25" end time: Feb 18 17:54 CST
+"Comp-25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 18 17:54 CST

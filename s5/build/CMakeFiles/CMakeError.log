@@ -1,0 +1,68 @@
+Determining if the log exist failed with the following output:
+Change Dir: /home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a87fe/fast && /usr/bin/make -f CMakeFiles/cmTC_a87fe.dir/build.make CMakeFiles/cmTC_a87fe.dir/build
+make[1]: Entering directory '/home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a87fe.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_a87fe.dir/CheckSymbolExists.c.o   -c /home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_a87fe
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a87fe.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_a87fe.dir/CheckSymbolExists.c.o  -o cmTC_a87fe 
+CMakeFiles/cmTC_a87fe.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `log'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_a87fe.dir/build.make:103: recipe for target 'cmTC_a87fe' failed
+make[1]: *** [cmTC_a87fe] Error 1
+make[1]: Leaving directory '/home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/CMakeTmp'
+Makefile:138: recipe for target 'cmTC_a87fe/fast' failed
+make: *** [cmTC_a87fe/fast] Error 2
+
+
+File /home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <math.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef log
+  return ((int*)(&log))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the exp exist failed with the following output:
+Change Dir: /home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f2580/fast && /usr/bin/make -f CMakeFiles/cmTC_f2580.dir/build.make CMakeFiles/cmTC_f2580.dir/build
+make[1]: Entering directory '/home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f2580.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_f2580.dir/CheckSymbolExists.c.o   -c /home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_f2580
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f2580.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_f2580.dir/CheckSymbolExists.c.o  -o cmTC_f2580 
+CMakeFiles/cmTC_f2580.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `exp'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_f2580.dir/build.make:103: recipe for target 'cmTC_f2580' failed
+make[1]: *** [cmTC_f2580] Error 1
+make[1]: Leaving directory '/home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/CMakeTmp'
+Makefile:138: recipe for target 'cmTC_f2580/fast' failed
+make: *** [cmTC_f2580/fast] Error 2
+
+
+File /home/nanmiao/Documents/cmake_tutorial/s5/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <math.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef exp
+  return ((int*)(&exp))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}

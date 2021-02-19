@@ -1,0 +1,6 @@
+/home/nanmiao/Documents/cmake_tutorial/s2_build/CMakeFiles/rebuild_cache.dir
+/home/nanmiao/Documents/cmake_tutorial/s2_build/CMakeFiles/edit_cache.dir
+/home/nanmiao/Documents/cmake_tutorial/s2_build/CMakeFiles/Tutorial.dir
+/home/nanmiao/Documents/cmake_tutorial/s2_build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/nanmiao/Documents/cmake_tutorial/s2_build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/nanmiao/Documents/cmake_tutorial/s2_build/MathFunctions/CMakeFiles/MathFunctions.dir

@@ -1,0 +1,3 @@
+/home/nanmiao/Documents/cmake_tutorial/step1_build/CMakeFiles/rebuild_cache.dir
+/home/nanmiao/Documents/cmake_tutorial/step1_build/CMakeFiles/edit_cache.dir
+/home/nanmiao/Documents/cmake_tutorial/step1_build/CMakeFiles/Tutorial.dir
