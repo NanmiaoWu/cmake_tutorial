@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20210219-1722-Experimental"
+	Name="jiujiu"
+	Generator="ctest-3.17.0-rc2"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.3.0"
+	OSName="Linux"
+	Hostname="jiujiu"
+	OSRelease="4.15.0-130-generic"
+	OSVersion="#134-Ubuntu SMP Tue Jan 5 20:46:26 UTC 2021"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="85"
+	ProcessorCacheSize="22528"
+	NumberOfLogicalCPU="64"
+	NumberOfPhysicalCPU="32"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="64064"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1000.01"
+	>
+	<Build>
+		<StartDateTime>Feb 19 11:22 CST</StartDateTime>
+		<StartBuildTime>1613755345</StartBuildTime>
+		<BuildCommand>/usr/local/bin/cmake --build . --config "Release"</BuildCommand>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Feb 19 11:22 CST</EndDateTime>
+		<EndBuildTime>1613755346</EndBuildTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Build>
+</Site>

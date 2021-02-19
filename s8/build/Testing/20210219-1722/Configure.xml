@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20210219-1722-Experimental"
+	Name="jiujiu"
+	Generator="ctest-3.17.0-rc2"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.3.0"
+	OSName="Linux"
+	Hostname="jiujiu"
+	OSRelease="4.15.0-130-generic"
+	OSVersion="#134-Ubuntu SMP Tue Jan 5 20:46:26 UTC 2021"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="85"
+	ProcessorCacheSize="22528"
+	NumberOfLogicalCPU="64"
+	NumberOfPhysicalCPU="32"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="64064"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1000"
+	>
+	<Configure>
+		<StartDateTime>Feb 19 11:22 CST</StartDateTime>
+		<StartConfigureTime>1613755345</StartConfigureTime>
+		<ConfigureCommand>"/usr/local/bin/cmake" "/home/nanmiao/Documents/Tutorial/cmake_tutorial/s8"</ConfigureCommand>
+		<Log>-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nanmiao/Documents/Tutorial/cmake_tutorial/s8/build
+</Log>
+		<ConfigureStatus>0</ConfigureStatus>
+		<EndDateTime>Feb 19 11:22 CST</EndDateTime>
+		<EndConfigureTime>1613755345</EndConfigureTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Configure>
+</Site>
